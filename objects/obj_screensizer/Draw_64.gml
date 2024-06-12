@@ -1,0 +1,2 @@
+gameframe_draw()
+

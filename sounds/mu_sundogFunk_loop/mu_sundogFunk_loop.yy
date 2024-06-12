@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mu_sundogFunk_loop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":160.1,
+  "name":"mu_sundogFunk_loop",
+  "parent":{
+    "name":"Sundog Funk",
+    "path":"folders/Sounds/Music/Sundog Funk.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mu_sundogFunk_loop.wav",
+  "type":0,
+  "volume":1.0,
+}

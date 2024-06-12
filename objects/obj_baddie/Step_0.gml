@@ -1,0 +1,19 @@
+if(state==states.hitstun){
+	scaredCooldown--
+	if(!scaredCooldown){
+		sprite_index=spr_idle
+		state=states.normal
+		image_speed=.4
+	}
+	if(grounded){hsp=Approach(hsp,0,accel)}
+}
+if((state==states.normal||state==states.mach)&&canScare){
+	if(distance_to_object(obj_player)<scaredDist&&obj_player.movespeed>=scaredSpd&&sign(image_xscale)!=sign(obj_player.xscale)&&obj_player.sprite_index!=spr_stop){
+		sprite_index=spr_scared
+		image_speed=.3
+		state=states.hitstun
+		scaredCooldown=maxScaredCooldown
+		vsp=scaredJump
+
+	}
+}

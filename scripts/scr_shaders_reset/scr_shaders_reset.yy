@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_shaders_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shaders_reset",
+  "parent":{
+    "name":"Shader",
+    "path":"folders/Scripts/Shader.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

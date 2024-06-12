@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_moveset_noise",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_moveset_noise",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

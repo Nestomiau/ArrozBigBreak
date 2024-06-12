@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_pSwap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pSwap",
+  "parent":{
+    "name":"Shader",
+    "path":"folders/Scripts/Shader.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

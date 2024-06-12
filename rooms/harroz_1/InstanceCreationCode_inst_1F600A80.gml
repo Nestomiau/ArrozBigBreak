@@ -1,0 +1,2 @@
+targetDoor="B"
+targetRoom=room

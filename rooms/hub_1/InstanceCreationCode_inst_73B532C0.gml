@@ -1,0 +1,1 @@
+targetRoom=junkbeach_1
